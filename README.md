@@ -1,2 +1,2 @@
 # Wad
-Web Application Development
+Web Application Development Semester one
